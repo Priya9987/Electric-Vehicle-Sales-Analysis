@@ -20,3 +20,14 @@ The dataset is taken from the Vahan Sewa. Thanks to the Vahan Sewa for providing
     2. Penetration Rate: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as: Penetration Rate = (Electric Vehicles Sold / Total Vehicles Sold) * 100
 This indicates the adoption level of electric vehicles.
     3. Compound Annual Growth Rate (CAGR): CAGR measures the mean annual growth rate over a specified period longer than one year. It is calculated as: CAGR = [(Ending Value / Beginning Value) ** 1/n] -1
+### Executive Summary
+![image](https://github.com/user-attachments/assets/4e97e25b-c8e3-40c0-8d1c-454a18688aea)
+
+### EV Sales By States
+![image](https://github.com/user-attachments/assets/4e52f9b0-4567-4162-a55c-4806134ead01)
+
+### EV Sales by Makers
+![image](https://github.com/user-attachments/assets/399ddca6-55cc-4123-b040-f46848a46507)
+
+### Statewise Comparison
+![image](https://github.com/user-attachments/assets/6aadcc76-19c3-4930-b66f-0f8c6d3819a0)
