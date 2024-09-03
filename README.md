@@ -15,7 +15,7 @@ The dataset is taken from the Vahan Sewa. Thanks to the Vahan Sewa for providing
 ### Analyze 
 - Data Analyzing
 - Power BI was used to analyze data.
-Key Metrics:
+- Key Metrics:
     1. Fiscal Year: The fiscal year is a one-year period used for financial reporting and budgeting, starting on April 1st and ending on March 31st of the following year in India.
     2. Penetration Rate: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as: Penetration Rate = (Electric Vehicles Sold / Total Vehicles Sold) * 100
 This indicates the adoption level of electric vehicles.
