@@ -7,15 +7,14 @@ AtliQ Motors is an automotive giant from the USA specializing in electric vehicl
 The public dataset is completely available on the Code basis website platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below:
  https://codebasics.io/challenge/codebasics-resume-project-challenge
 2. Data Organized:
-The dataset is taken from the Vahan Sewa. Thanks to the Vahan Sewa for providing datasets for public access which is a great learning asset - feel free to explore them here: Vahan Sewa This dataset contains only 3 csv file and 1 text file (meta_data)
-
+The dataset is taken from the Vahan Sewa. Thanks to the Vahan Sewa for providing datasets for public access which is a great learning asset - feel free to explore them here: [Vahan Sewa](https://vahan.parivahan.gov.in/vahan4dashboard/vahan/view/reportview.xhtml) This dataset contains only 3 csv file and 1 text file (meta_data)
 
 ### Tech Stack used: 
 - Power BI Desktop
 - Excel
 ### Analyze 
-Data Analyzing
-Power BI was used to analyze data.
+- Data Analyzing
+- Power BI was used to analyze data.
 Key Metrics:
     1. Fiscal Year: The fiscal year is a one-year period used for financial reporting and budgeting, starting on April 1st and ending on March 31st of the following year in India.
     2. Penetration Rate: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as: Penetration Rate = (Electric Vehicles Sold / Total Vehicles Sold) * 100
